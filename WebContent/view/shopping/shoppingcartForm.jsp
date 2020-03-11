@@ -14,6 +14,5 @@ shopping cart<br>
 </c:forEach>
 
 <button > 결제하기</button>
-<button > 이전</button>
 </body>
 </html>
