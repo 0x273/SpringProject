@@ -12,5 +12,7 @@ shopping cart<br>
 <c:forEach var="list" items="${selected}">
 		${list}<br>
 </c:forEach>
+
+<button > 결제하기</button>
 </body>
 </html>
