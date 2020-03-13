@@ -24,7 +24,7 @@ a:hover {
 
 <body>
 	<form name="select_ingredient" method="post" action="${pageContext.request.contextPath}/shopping/cart" >
-	<!-- 임의로 만든 페이지 이 부분 지영ㅇ언니꺼로 교체 -->
+	<!-- 임의로 만든 페이지 이 부분 지영ㅇ언니꺼로 교체d -->
 	<table>
 		<thead>
 		<tr>
